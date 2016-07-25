@@ -1,0 +1,14 @@
+c:\users\student\documents\visual studio 2015\Projects\CS540_A2_EFarin\CS540_A2_EFarin\bin\Debug\CS540_A2_EFarin.exe.config
+c:\users\student\documents\visual studio 2015\Projects\CS540_A2_EFarin\CS540_A2_EFarin\bin\Debug\CS540_A2_EFarin.exe
+c:\users\student\documents\visual studio 2015\Projects\CS540_A2_EFarin\CS540_A2_EFarin\bin\Debug\CS540_A2_EFarin.pdb
+c:\users\student\documents\visual studio 2015\Projects\CS540_A2_EFarin\CS540_A2_EFarin\bin\Debug\CS540_A2_EFarin.xml
+c:\users\student\documents\visual studio 2015\Projects\CS540_A2_EFarin\CS540_A2_EFarin\obj\Debug\CS540_A2_EFarin.vbprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\CS540_A2_EFarin\CS540_A2_EFarin\obj\Debug\CS540_A2_EFarin.Form1.resources
+c:\users\student\documents\visual studio 2015\Projects\CS540_A2_EFarin\CS540_A2_EFarin\obj\Debug\CS540_A2_EFarin.Resources.resources
+c:\users\student\documents\visual studio 2015\Projects\CS540_A2_EFarin\CS540_A2_EFarin\obj\Debug\CS540_A2_EFarin.vbproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2015\Projects\CS540_A2_EFarin\CS540_A2_EFarin\obj\Debug\CS540_A2_EFarin.exe
+c:\users\student\documents\visual studio 2015\Projects\CS540_A2_EFarin\CS540_A2_EFarin\obj\Debug\CS540_A2_EFarin.xml
+c:\users\student\documents\visual studio 2015\Projects\CS540_A2_EFarin\CS540_A2_EFarin\obj\Debug\CS540_A2_EFarin.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\CS540_A2_EFarin\CS540_A2_EFarin\obj\Debug\CS540_A2_EFarin.Form1.en-GB.resources
+C:\Users\student\Documents\Visual Studio 2015\Projects\CS540_A2_EFarin\CS540_A2_EFarin\bin\Debug\en-GB\CS540_A2_EFarin.resources.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\CS540_A2_EFarin\CS540_A2_EFarin\obj\Debug\en-GB\CS540_A2_EFarin.resources.dll

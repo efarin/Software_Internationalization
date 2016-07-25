@@ -1,0 +1,10 @@
+C:\Users\student\Documents\Visual Studio 2015\Projects\Efarin_CS540_A4\Efarin_CS540_A4\bin\Debug\Efarin_CS540_A4.exe.config
+C:\Users\student\Documents\Visual Studio 2015\Projects\Efarin_CS540_A4\Efarin_CS540_A4\bin\Debug\Efarin_CS540_A4.exe
+C:\Users\student\Documents\Visual Studio 2015\Projects\Efarin_CS540_A4\Efarin_CS540_A4\bin\Debug\Efarin_CS540_A4.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\Efarin_CS540_A4\Efarin_CS540_A4\bin\Debug\Efarin_CS540_A4.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\Efarin_CS540_A4\Efarin_CS540_A4\obj\Debug\Efarin_CS540_A4.Form1.resources
+C:\Users\student\Documents\Visual Studio 2015\Projects\Efarin_CS540_A4\Efarin_CS540_A4\obj\Debug\Efarin_CS540_A4.Resources.resources
+C:\Users\student\Documents\Visual Studio 2015\Projects\Efarin_CS540_A4\Efarin_CS540_A4\obj\Debug\Efarin_CS540_A4.vbproj.GenerateResource.Cache
+C:\Users\student\Documents\Visual Studio 2015\Projects\Efarin_CS540_A4\Efarin_CS540_A4\obj\Debug\Efarin_CS540_A4.exe
+C:\Users\student\Documents\Visual Studio 2015\Projects\Efarin_CS540_A4\Efarin_CS540_A4\obj\Debug\Efarin_CS540_A4.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\Efarin_CS540_A4\Efarin_CS540_A4\obj\Debug\Efarin_CS540_A4.pdb
